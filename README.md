@@ -37,4 +37,4 @@ var config = {
 };
 ```
 
-More examples and instructions will follow, but for now see the Phaser 3 Examples repo for details.
+More examples and instructions will follow, but for now see the [Phaser 3 Examples](https://github.com/photonstorm/phaser3-examples) repo for details.
