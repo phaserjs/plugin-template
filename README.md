@@ -20,7 +20,7 @@ function preload ()
 Then to install it into a Scene:
 
 ```
-    this.sys.install('BasePlugin');
+    this.plugins.install('BasePlugin');
 ```
 
 If you load the plugins in a Preloader scene then you can add them to any other Scenes by specifying them in the plugins array:
